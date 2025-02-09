@@ -53,6 +53,14 @@ I can collaborate and communicate efficiently in both languages, so feel free to
 
 ---
 
+### 📩 Contact Me
+
+Feel free to reach out via email for any collaboration or inquiries! I'm always happy to connect.
+
+**Email**: [anton28320github@gmail.com](mailto:anton28320github@gmail.com) 📧
+
+---
+
 💬 **Thank you for visiting my profile!**  
 Feel free to explore my projects, and let’s connect! 🌍✨
 
@@ -110,6 +118,14 @@ Ya sea **crear un producto desde cero** o **optimizar aplicaciones existentes**,
 - **Español**: Nativo. 🇪🇸
 
 Puedo colaborar y comunicarme de manera eficiente en ambos idiomas, así que no dudes en contactarme en el idioma que prefieras. 💬
+
+---
+
+### 📩 Contáctame
+
+No dudes en contactarme por correo electrónico para cualquier consulta o colaboración. ¡Siempre estoy disponible para conectar!
+
+**Email**: [anton28320github@gmail.com](mailto:anton28320github@gmail.com) 📧
 
 ---
 
