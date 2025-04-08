@@ -89,11 +89,11 @@ Soy un desarrollador con experiencia tanto en **front-end** como en **back-end**
 
 #### **Desarrollo Web** 🌐
 
-- **HTML**: Estructurando la web con semántica adecuada.
+- **HTML**: Estructurando la web con semántica adecuada. 📃
 - **CSS**: Diseñando interfaces limpias y visualmente atractivas. 🎨
-- **SASS**: CSS preprocessor for efficient styling.
+- **SASS**: Preprocesador CSS para aplicar estilos de forma mas eficiente. 🔆
 - **JavaScript**: Impulsando la interactividad y dinamismo en las páginas web. ⚙️
-- **Typescript**: Typed superset of JavaScript for enhanced safety and scalability.
+- **Typescript**: Superconjunto tipado de JavaScript para mayor seguridad y escalabilidad. ⚡
 
 
 #### **Tecnologías Backend** 🔙
