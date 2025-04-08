@@ -18,7 +18,7 @@ I specialize in both **front-end** and **back-end** development, which allows me
 - **HTML**: Structuring the web with meaningful markup.
 - **CSS**: Designing clean and visually stunning interfaces. 🎨
 - **JavaScript**: Powering interactive and dynamic websites. ⚙️
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 #### **Backend Technologies** 🔙
 
 - **Python**: Flexible, powerful, and perfect for automation and web development. 🐍
