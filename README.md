@@ -15,19 +15,25 @@ I specialize in both **front-end** and **back-end** development, which allows me
 
 #### **Web Development** 🌐
 
-- **HTML**: Structuring the web with meaningful markup.
+- **HTML**: Structuring the web with meaningful markup. 📃
 - **CSS**: Designing clean and visually stunning interfaces. 🎨
+- **SASS**: CSS preprocessor for efficient styling. 🔆
 - **JavaScript**: Powering interactive and dynamic websites. ⚙️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Typescript**: Typed superset of JavaScript for enhanced safety and scalability. ⚡
+ 
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript)
+#### **Front-End Frameworks** 🖥️
+
+- **React**: Building interactive, modern user interfaces. ⚛️
+- **Vue.js**: Progressive framework for efficient, reactive user experiences. 🌟
+
+![My Skills](https://skillicons.dev/icons?i=react,vuejs,js)
 #### **Backend Technologies** 🔙
 
 - **Python**: Flexible, powerful, and perfect for automation and web development. 🐍
 - **Node.js**: JavaScript on the server, enabling fast, scalable applications. 🌱
 
-#### **Front-End Frameworks** 🖥️
-
-- **React**: Building interactive, modern user interfaces. ⚛️
-- **Vue.js**: Progressive framework for efficient, reactive user experiences. 🌟
+![My Skills](https://skillicons.dev/icons?i=python,nodejs,js)
 
 ---
 
@@ -85,7 +91,10 @@ Soy un desarrollador con experiencia tanto en **front-end** como en **back-end**
 
 - **HTML**: Estructurando la web con semántica adecuada.
 - **CSS**: Diseñando interfaces limpias y visualmente atractivas. 🎨
+- **SASS**: CSS preprocessor for efficient styling.
 - **JavaScript**: Impulsando la interactividad y dinamismo en las páginas web. ⚙️
+- **Typescript**: Typed superset of JavaScript for enhanced safety and scalability.
+
 
 #### **Tecnologías Backend** 🔙
 
